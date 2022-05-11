@@ -1,2 +1,2 @@
 conflict file
-
+Appending content to differ master and branch1 conflict files
