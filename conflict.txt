@@ -1,2 +1,6 @@
 conflict file
+<<<<<<< HEAD
 Appending content to differ master and branch1 conflict files
+=======
+adding content after first commit
+>>>>>>> branch1
